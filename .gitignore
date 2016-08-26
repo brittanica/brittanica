@@ -1,3 +1,4 @@
 .idea/
 node_modules/
 .scripts/words.txt
+npm-debug.log
