@@ -1,0 +1,52 @@
+{
+  "name": "brittanica",
+  "version": "12.0.0",
+  "description": "Brittanica Encyclopedia",
+  "main": "index.js",
+  "author": "goodmind <andwebar@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brittanica",
+    "britannica",
+    "encyclopedia"
+  ],
+  "dependencies": {
+    "brittanica-a": "^13.3.7",
+    "brittanica-b": "^13.3.7",
+    "brittanica-c": "^13.3.7",
+    "brittanica-d": "^13.3.7",
+    "brittanica-e": "^13.3.7",
+    "brittanica-f": "^13.3.7",
+    "brittanica-g": "^13.3.7",
+    "brittanica-h": "^13.3.7",
+    "brittanica-i": "^13.3.7",
+    "brittanica-j": "^13.3.7",
+    "brittanica-k": "^13.3.7",
+    "brittanica-l": "^13.3.7",
+    "brittanica-m": "^13.3.7",
+    "brittanica-n": "^13.3.7",
+    "brittanica-o": "^13.3.7",
+    "brittanica-p": "^13.3.7",
+    "brittanica-q": "^13.3.7",
+    "brittanica-r": "^13.3.7",
+    "brittanica-s": "^13.3.7",
+    "brittanica-t": "^13.3.7",
+    "brittanica-u": "^13.3.7",
+    "brittanica-v": "^13.3.7",
+    "brittanica-w": "^13.3.7",
+    "brittanica-x": "^13.3.7",
+    "brittanica-y": "^13.3.7",
+    "brittanica-z": "^13.3.7"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodmind/brittanica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goodmind/brittanica/issues"
+  },
+  "homepage": "https://github.com/goodmind/brittanica#readme"
+}
