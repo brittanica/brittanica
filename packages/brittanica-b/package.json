@@ -1,0 +1,11 @@
+  {
+  "name": "brittanica-b",
+  "version": "13.3.7",
+  "description": "All words starting with b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
