@@ -59,11 +59,24 @@ EOF
   "version": "13.3.7",
   "description": "All words starting with $letter",
   "main": "index.js",
+  "keywords": [
+    "brittanica",
+    "britannica",
+    "encyclopedia"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittanica/brittanica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brittanica/brittanica/issues"
+  },
+  "homepage": "https://github.com/brittanica/brittanica#readme"
 }
 EOF
   cd ..
