@@ -48911,10 +48911,6 @@ module.exports = {
       page: 21666,
       description: require('./fieri.js').guy
     },
-    "animate": {
-      page: 6819,
-      description: require('./fieri.js').guy
-    },
     "animated": {
       page: 5738,
       description: require('./fieri.js').guy

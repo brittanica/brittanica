@@ -2283,7 +2283,7 @@ module.exports = {
       page: 13179,
       description: require('./fieri.js').guy
     },
-    "hain"t": {
+    "hain\"t": {
       page: 24208,
       description: require('./fieri.js').guy
     },
