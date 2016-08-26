@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-packages=$(pwd)"/packages"
+packages="$(pwd)/packages"
 
 for letter in {a..z}
 do
@@ -56,7 +56,7 @@ EOF
   cat <<EOF > package.json
   {
   "name": "brittanica-$letter",
-  "version": "13.3.7",
+  "version": "13.3.8",
   "description": "All words starting with $letter",
   "main": "index.js",
   "keywords": [
