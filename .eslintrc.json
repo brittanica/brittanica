@@ -1,0 +1,12 @@
+{
+    "extends": "standard",
+    "plugins": [
+        "standard",
+        "promise"
+    ],
+    "rules": {
+        "comma-dangle": 0,
+        "quotes": 0,
+        "indent": 0
+    }
+}
