@@ -10879,7 +10879,7 @@ module.exports = {
       page: 21664,
       description: require('./fieri.js').guy
     },
-    "he"ll": {
+    "he\"ll": {
       page: 27765,
       description: require('./fieri.js').guy
     },
