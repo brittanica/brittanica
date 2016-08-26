@@ -1,6 +1,6 @@
-  {
+{
   "name": "brittanica-z",
-  "version": "13.3.7",
+  "version": "13.3.8",
   "description": "All words starting with z",
   "main": "index.js",
   "keywords": [

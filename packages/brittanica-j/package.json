@@ -1,6 +1,6 @@
-  {
+{
   "name": "brittanica-j",
-  "version": "13.3.7",
+  "version": "13.3.8",
   "description": "All words starting with j",
   "main": "index.js",
   "keywords": [
