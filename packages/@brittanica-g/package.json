@@ -1,0 +1,30 @@
+{
+  "name": "@brittanica/g",
+  "version": "0.0.1",
+  "description": "All words starting with g",
+  "main": "index.js",
+  "keywords": [
+    "brittanica",
+    "britannica",
+    "encyclopedia"
+  ],
+  "dependencies": {
+    "brittanica-g": "^13.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brittanica <brittanica@tfwno.gf>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittanica/brittanica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brittanica/brittanica/issues"
+  },
+  "homepage": "https://github.com/brittanica/brittanica#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
