@@ -8,7 +8,7 @@ do
   cat <<EOF > LICENSE
 MIT License
 
-Copyright (c) 2016 andretshurotshka
+Copyright (c) 2016 brittanica
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,7 +48,7 @@ PRs accepted
 
 ## License
 
-MIT (c) andretshurotshka
+MIT (c) brittanica
 EOF
   cat <<EOF > index.js
 module.exports = {}
@@ -56,7 +56,7 @@ EOF
   cat <<EOF > package.json
   {
   "name": "brittanica-$letter",
-  "version": "13.3.8",
+  "version": "13.4.0",
   "description": "All words starting with $letter",
   "main": "index.js",
   "keywords": [
@@ -67,7 +67,7 @@ EOF
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "brittanica <brittanica@tfwno.gf>",
   "license": "MIT",
   "repository": {
     "type": "git",
