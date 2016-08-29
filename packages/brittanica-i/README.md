@@ -17,4 +17,4 @@ PRs accepted
 
 ## License
 
-MIT (c) andretshurotshka
+MIT (c) brittanica
